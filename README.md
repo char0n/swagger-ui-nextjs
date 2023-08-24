@@ -3,6 +3,12 @@ This repo serves as POC of integrating [swagger-ui-react](https://github.com/swa
 
 ## Getting Started
 
+Installation:
+
+```bash
+npm i
+```
+
 First, run the development server:
 
 ```bash
