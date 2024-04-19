@@ -1,3 +1,3 @@
-const { File } = require('next/dist/compiled/undici')
+const { File } = require('node:buffer')
 
 globalThis.File  = globalThis.File ?? File
