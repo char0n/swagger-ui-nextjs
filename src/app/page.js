@@ -1,9 +1,10 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
-import SwaggerUI from 'swagger-ui-react'
 import 'swagger-ui-react/swagger-ui.css'
+import SwaggerUI from 'swagger-ui-react'
 
 const inter = Inter({ subsets: ['latin'] })
+
 
 export default function Home() {
   return (
